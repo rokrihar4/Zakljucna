@@ -1,3 +1,3 @@
 # Demo
 
-Boj dej.
+Boj dej!
