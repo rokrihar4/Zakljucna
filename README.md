@@ -6,4 +6,6 @@ How to install: Just clone the "Emberius - The Blaze Guardian" folder and run 2D
 
 If you are interested in documentation look "Matura Zaključni izdelek" (Its written in slovenian).
 
+![alt text](image.png)
+
 Made by Rok Rihar, enjoy.
